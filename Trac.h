@@ -1,5 +1,6 @@
 /*
 	Arquivo INTERFACE do programa pRAC
+x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 */
 
 typedef struct {int num, den;} TRac;
