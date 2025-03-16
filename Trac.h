@@ -2,7 +2,7 @@
 	Arquivo INTERFACE do programa pRACtgrfgfbr
 x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 */
-
+#include <stdlib.h>
 typedef struct {int num, den;} TRac;
 
 /* Prototipos das funcoes */
