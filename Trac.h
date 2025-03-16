@@ -1,5 +1,5 @@
 /*
-	Arquivo INTERFACE do programa pRAC
+	Arquivo INTERFACE do programa pRACtgrfgfbr
 x,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 */
 
